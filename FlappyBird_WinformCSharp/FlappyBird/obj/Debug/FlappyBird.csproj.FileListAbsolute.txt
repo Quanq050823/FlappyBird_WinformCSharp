@@ -1,0 +1,11 @@
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\bin\Debug\FlappyBird.exe.config
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\bin\Debug\FlappyBird.exe
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\bin\Debug\FlappyBird.pdb
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.Form1.resources
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.Properties.Resources.resources
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.Start.resources
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.exe
+E:\GitHub_Repository\FlappyBird_WinformCSharp\FlappyBird_WinformCSharp\FlappyBird\obj\Debug\FlappyBird.pdb
